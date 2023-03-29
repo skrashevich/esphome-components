@@ -1,0 +1,3 @@
+[submodule "components/bleDistance"]
+	path = components/bleDistance
+	url = https://github.com/skrashevich/BleDistance.git
